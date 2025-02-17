@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
+   <h1 align="center">Iphone 15 Website</h1>
   <br />
 
   <div>
@@ -11,7 +11,7 @@
   </div>
 </div>
 
-  <h3 align="center">Iphone 15 Website</h3>
+  
 
 ## 📋 <a name="table">Table of Contents</a>
 
